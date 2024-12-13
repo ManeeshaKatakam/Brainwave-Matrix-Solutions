@@ -1,4 +1,4 @@
-# Sales Data Analysis for Brainwave Matrix Solutions
+# Sales Data Analysis 
 
 # TASK - 1
 
